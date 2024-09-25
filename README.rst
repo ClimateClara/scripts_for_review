@@ -1,5 +1,5 @@
-These are the scripts to produce the figures and analysis of the manuscript in review "Ocean warming threatens the viability of 70% of Antarctic ice shelves"
-=============================================================================================================================================================
+These are the scripts to produce the figures and analysis of the manuscript in review
+=====================================================================================
 
 
 Information
