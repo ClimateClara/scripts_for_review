@@ -38,8 +38,3 @@ via ``conda install``:
 via ``pip install``:
 
 - multimelt version 0.4
-
-
-
-via ``pip install install``:
-- multimelt version 0.3
