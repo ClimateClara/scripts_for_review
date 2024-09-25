@@ -28,11 +28,18 @@ PACKAGES NEEDED
 ---------------
 
 via ``conda install``:
+
 - xarray version 2022.11.0
 - numpy version 1.23.5
 - tqdm version 4.65.0
 - matplotlib version 3.7.2
 - seaborn version 0.12.2
+
+via ``pip install``:
+
+- multimelt version 0.4
+
+
 
 via ``pip install install``:
 - multimelt version 0.3
