@@ -38,3 +38,5 @@ via ``conda install``:
 via ``pip install``:
 
 - multimelt version 0.4
+
+The .ipynb files can be run by launching a JupyterLab instance in this folder after downloading it. Instructions to install JupyterLab can be found here: https://jupyter.org/install.
