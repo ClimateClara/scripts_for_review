@@ -19,6 +19,7 @@ Hello! These are the scripts used for the figures and the analysis of the manusc
 - Extended Data Figures 10 to 12 were done with ``/notebooks_for_figures/histo_weights_new.ipynb``
 
 In the folder ``notebooks_for_datapreparation``, you will find a few scripts to prepare the data. These are not as detailed and not meant to be run out of the box but permit to give insight into the practical application of the methods described in the paper. For potential inspiration of similar work :)
+For the hydrofracturing calculations we refer to `Jourdain et al. 2025 <https://doi.org/10.5194/tc-19-1641-2025>`_ and the associated scripts: https://doi.org/10.5281/zenodo.13756240 and https://doi.org/10.5281/zenodo.15003864.
 
 DATA
 ----
