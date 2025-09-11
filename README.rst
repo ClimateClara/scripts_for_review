@@ -1,5 +1,5 @@
-These are the scripts to produce the figures and analysis of the manuscript in review
-=====================================================================================
+These are the scripts to produce the figures and analysis of the paper "Ocean warming threatens the viability of 60% of Antarctic ice shelves"
+==============================================================================================================================================
 
 
 Information
@@ -7,16 +7,16 @@ Information
 
 Hello! These are the scripts used for the figures and the analysis of the manuscript on ice-shelf viability.
 
-- Figure 2 was done with ``/notebooks_for_figures/timeseries_nb_viable_isf_withoutGISS_withhydrofrac_calving0.ipynb`` and ``/notebooks_for_figures/2D_subplots_viability_proba_withoutGISS_calving0.ipynb``
-- Figure 3 was done with ``/notebooks_for_figures/2D_subplots_viability_proba_withoutGISS_calving0.ipynb``
+- Figure 2 and 3 were done with ``/notebooks_for_figures/timeseries_nb_viable_isf_withoutGISS_withhydrofrac_calving0.ipynb`` and ``/notebooks_for_figures/2D_subplots_viability_proba_withoutGISS_calving0.ipynb``
+- Figure 4 was done with ``/notebooks_for_figures/2D_subplots_viability_proba_withoutGISS_calving0.ipynb``
+- Figure 5 was done with ``/notebooks_for_figures/timeseries_nb_viable_isf_withoutGISS_withhydrofrac_calving0.ipynb`` and ``notebooks_for_figures/2D_subplots_viability_proba_onlyhydrofrac.ipynb``
 
-- Figure S1 and S7 were done with ``/notebooks_for_figures/timeseries_nb_viable_isf_withoutGISS_withhydrofrac_calving0.ipynb``
-- Figure S2 was done with ``/notebooks_for_figures/timeseries_nb_viable_isf_withoutGISS_withhydrofrac_calving0.ipynb`` and ``notebooks_for_figures/2D_subplots_viability_proba_onlyhydrofrac.ipynb``
-- Figures S3 to S6 were done with ``/notebooks_for_figures/plot_mass_fluxes.ipynb``
-- Figure S8 was done with ``/notebooks_for_figures/timeseries_nb_viable_isf_withoutGISS_withhydrofrac.ipynb`` and ``/notebooks_for_figures/2D_subplots_viability_proba.ipynb``
-- Figure S9 was done with ``/notebooks_for_figures/2D_subplots_viability_proba.ipynb``
-- Figure S10 was done with ``/notebooks_for_figures/timeseries_nb_viable_isf_withoutGISS_withhydrofrac_ElmerIcegeometries.ipynb`` and ``/notebooks_for_figures/2D_subplots_viability_proba_withoutGISS_ElmerIcegeometries.ipynb``
-- Figures S13 to S15 were done with ``/notebooks_for_figures/histo_weights_new.ipynb``
+- Extended Data Figures 1 to 4 were done with ``/notebooks_for_figures/plot_mass_fluxes.ipynb``
+- Extended Data Figure 5 was done with ``/notebooks_for_figures/timeseries_nb_viable_isf_withoutGISS_withhydrofrac_calving0.ipynb``
+- Extended Data Figure 6 was done with ``/notebooks_for_figures/timeseries_nb_viable_isf_withoutGISS_withhydrofrac.ipynb`` and ``/notebooks_for_figures/2D_subplots_viability_proba.ipynb``
+- Extended Data Figure 7 was done with ``/notebooks_for_figures/2D_subplots_viability_proba.ipynb``
+- Extended Data Figure 8 was done with ``/notebooks_for_figures/timeseries_nb_viable_isf_withoutGISS_withhydrofrac_ElmerIcegeometries.ipynb`` and ``/notebooks_for_figures/2D_subplots_viability_proba_withoutGISS_ElmerIcegeometries.ipynb``
+- Extended Data Figures 10 to 12 were done with ``/notebooks_for_figures/histo_weights_new.ipynb``
 
 DATA
 ----
