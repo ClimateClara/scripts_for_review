@@ -18,6 +18,8 @@ Hello! These are the scripts used for the figures and the analysis of the manusc
 - Extended Data Figure 8 was done with ``/notebooks_for_figures/timeseries_nb_viable_isf_withoutGISS_withhydrofrac_ElmerIcegeometries.ipynb`` and ``/notebooks_for_figures/2D_subplots_viability_proba_withoutGISS_ElmerIcegeometries.ipynb``
 - Extended Data Figures 10 to 12 were done with ``/notebooks_for_figures/histo_weights_new.ipynb``
 
+In the folder ``notebooks_for_datapreparation``, you will find a few scripts to prepare the data. These are not as detailed and not meant to be run out of the box but permit to give insight into the practical application of the methods described in the paper. For potential inspiration of similar work :)
+
 DATA
 ----
 
